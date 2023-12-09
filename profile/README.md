@@ -1,3 +1,15 @@
+<div>
+	<div align="center">
+	<img src="https://github.com/Kawanua-project/.github/blob/main/kawanua-01.png" width="500" />
+	</div>
+	<h3 align="center">Kawanua - Kawan Untuk Alam </h3>
+	<p align="left">
+As the 15th largest country in the world, with a land area of 1,916,862.20 square kilometers, Indonesia boasts diverse ecosystems that support various forms of life. According to National Geographic, Indonesia is renowned as the country with the highest biodiversity on the planet. However, despite this natural wealth, Indonesia faces significant challenges in conserving its plant and animal species, which are experiencing a noticeable decline.
+
+Knowing whether a species is in danger of extinction is a way to prevent it from becoming extinct, despite Indonesia's extraordinary biodiversity, many species are at risk. We are aiming to develop applications capable of detecting whether an animal or plant is endangered using a smartphone camera with a machine learning model. That will provide users with essential information about the species, thus aiding in raising awareness and garnering support for the conservation of Indonesia's unique wildlife. 
+	</p>
+</div>
+
 ## Introduction 👋
 **Team ID: CH2-PS228**
 
