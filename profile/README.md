@@ -1,6 +1,6 @@
 <div>
 	<div align="center">
-	<img src="https://github.com/Kawanua-project/.github/blob/main/kawanua-01.png" width="300" />
+	<img src="https://github.com/Kawanua-project/.github/blob/main/kawanua-01.png" width="500" />
 	</div>
 	<h3 align="center">Kawanua - Kawan Untuk Alam </h3>
 	<p align="left">
