@@ -36,3 +36,10 @@ Bangkit ID|Name|Learning Path|University|LinkedIn
 
 ## Theme ☘️
 Water, Forest, and Natural Resources
+
+## How To Use The App 📱
+### A. Getting Started
+#### Prerequisites
+Android phone and internet connection.
+#### Installation
+Get the app from our [releases page](https://drive.google.com/file/d/1Zhlp-Ex1gWLrFRHIM_QP7NItmVTEN1ac/view?usp=sharing).
