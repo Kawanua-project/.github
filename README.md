@@ -43,3 +43,20 @@ Water, Forest, and Natural Resources
 Android phone and internet connection.
 #### Installation
 Get the app from our [releases page](https://drive.google.com/file/d/1Zhlp-Ex1gWLrFRHIM_QP7NItmVTEN1ac/view?usp=sharing).
+#### Register
+Open the app and click register then fill the form.
+
+### B. Usage
+#### How to detect animal and plant identification
+1. Open the app.
+2. Log in to your account.
+3. Click the Scan menu.
+4. Take a photo of your Animal (elephant, orangutan), Plant (Javanese Edelweiss,Corpse Lily) or choose from the gallery.
+5. Click the Upload button and wait for the results.
+
+### Additional Features
+- Login and Register
+- Maps
+- Artikel
+- Dark Mode
+- Find Conservation Center
