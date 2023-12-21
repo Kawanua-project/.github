@@ -11,10 +11,13 @@ Knowing whether a species is in danger of extinction is a way to prevent it from
 </div>
 
 ## Screenshots
-<div align="center">
-	<img src="https://github.com/Kawanua-project/.github/blob/main/01.PNG" width="24%"/>
-	<img src="https://github.com/Kawanua-project/.github/blob/main/02.PNG" width="24%"/>
-</div>
+<p align="center">
+  <img src="https://github.com/MarvaMA/.github/blob/main/1.png" alt="Feature1" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/MarvaMA/.github/blob/main/2.png" alt="Feature2" />
+</p>
 
 ## Introduction 👋
 **Team ID: CH2-PS228**
@@ -31,5 +34,5 @@ Bangkit ID|Name|Learning Path|University|LinkedIn
 |A230BSY2316|Jonathan Alezandro Zaverius Kamagi|Mobile Development|Universitas Katolik De La Salle|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-kamagi/)|
 |A248BSY2829|Marva Muhammad Aula|Mobile Development|Universitas Lampung|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvama/)|
 
-## Theme 💚
+## Theme ☘️
 Water, Forest, and Natural Resources
