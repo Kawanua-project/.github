@@ -11,10 +11,13 @@ Knowing whether a species is in danger of extinction is a way to prevent it from
 </div>
 
 ## Screenshots
-<div align="center">
-	<img src="https://github.com/Kawanua-project/.github/blob/main/01.PNG" width="24%"/>
-	<img src="https://github.com/Kawanua-project/.github/blob/main/02.PNG" width="24%"/>
-</div>
+<p align="center">
+  <img src="https://github.com/MarvaMA/.github/blob/main/1.png" alt="Feature1" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/MarvaMA/.github/blob/main/2.png" alt="Feature2" />
+</p>
 
 ## Introduction 👋
 **Team ID: CH2-PS228**
