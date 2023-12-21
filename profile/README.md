@@ -57,6 +57,6 @@ Open the app and click register then fill the form.
 ### Additional Features
 - Login and Register
 - Maps
-- Artikel
+- Article
 - Dark Mode
 - Find Conservation Center
