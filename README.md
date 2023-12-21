@@ -34,7 +34,7 @@ Bangkit ID|Name|Learning Path|University|LinkedIn
 |A230BSY2316|Jonathan Alezandro Zaverius Kamagi|Mobile Development|Universitas Katolik De La Salle|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-kamagi/)|
 |A248BSY2829|Marva Muhammad Aula|Mobile Development|Universitas Lampung|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvama/)|
 
-## Theme 💚
+## Theme ☘️
 Water, Forest, and Natural Resources
 
 ## How To Use The App 📱
